@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Based in Athens, Greece. I am a polyglot programmer and seasoned front-end engineer. And a firm believer of the compound gains of continually fixing the small things. I am interested in reliable backend stacks, modern front-end technologies and shipping reliable applications.
+
 <!--
 **ang3lkar/ang3lkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
