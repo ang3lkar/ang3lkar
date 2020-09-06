@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-Based in Athens, Greece. I am a polyglot programmer and seasoned front-end engineer. And a firm believer of the compound gains of continually fixing the small things. I am interested in reliable backend stacks, modern front-end technologies and shipping reliable applications.
+I am Angelos, a polyglot software engineer and seasoned front-end developer, based in Athens, Greece. 
 
-- ⚡ Fun fact: I ♥ making playlists on Spotify. You can find them on https://groove.mx
+When I am not writing and shipping reliable web applications, I like reading about software history and discovering new things while diving into the basics of computer science. 
+
+I am a firm believer of the compound gains of continually fixing the small things. 
+
+⚡ Fun fact: I ♥ making playlists on Spotify. You can find them on https://groove.mx
 
 <!--
 **ang3lkar/ang3lkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
