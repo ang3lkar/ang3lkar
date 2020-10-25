@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Angelos, a polyglot software engineer and seasoned front-end developer, based in Athens, Greece. 
+I am Angelos, a polyglot software engineer, based in Athens, Greece. 
 
 When I am not writing and shipping reliable web applications, I like reading about software history and discovering new things while diving into the basics of computer science. 
 
