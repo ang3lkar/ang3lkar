@@ -2,7 +2,7 @@
 
 I am Angelos, a polyglot software engineer, based in Athens, Greece. 
 
-When I am not writing and shipping reliable web applications, I like reading about software history and discovering new things while diving into the basics of computer science. 
+When I am not writing and shipping reliable web applications, I like reading the history and basics of computer science. 
 
 I am a firm believer of the compound gains of continually fixing the small things. 
 
