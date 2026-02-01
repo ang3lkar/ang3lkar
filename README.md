@@ -6,7 +6,7 @@ When I am not writing and shipping reliable web applications, I like reading the
 
 I am a firm believer of the compound gains of continually fixing the small things. 
 
-⚡ Fun fact: I ♥ making playlists on Spotify. I have written [cafe51](https://chrome.google.com/webstore/detail/cafe51/kbchbhcmhbplafabgblflanjcjgokgln?), a simple Chrome extension to help me on that. You can find the fruits of my labor on https://groove-mx.vercel.app
+⚡ Fun fact: I ♥ making playlists on Spotify. You can find the fruits of my labor on https://groove-mx.vercel.app
 
 <!--
 **ang3lkar/ang3lkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
